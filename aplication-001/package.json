@@ -1,0 +1,20 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev":"electron .",
+    "start": "electron"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.3",
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends":"standard"
+  }
+}
+
